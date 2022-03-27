@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f4eeacd6-8780-2bef-bf29-1e625bcb674e
 resourcetype: Document
 title: postmodernism.pdf
 uid: dd592c77-975c-8e88-9407-6564795c4333

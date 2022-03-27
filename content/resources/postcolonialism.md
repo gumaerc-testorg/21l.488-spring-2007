@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f4eeacd6-8780-2bef-bf29-1e625bcb674e
 resourcetype: Document
 title: Postcolonialism 101
 uid: bcbd57ae-be9b-b287-9ac8-641e27bd402f
