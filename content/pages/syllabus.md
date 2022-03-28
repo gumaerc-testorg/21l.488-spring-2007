@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: dbe0eaae-7a0e-7139-b66e-559c5530d867
 ---
@@ -84,7 +85,7 @@ Active participation
 *   Essay 2: 4-5 pages
 *   Final paper: 8-10 pages
 
-Please see [assignments]({{< baseurl >}}/pages/assignments) for criteria and guidelines for your papers. The assignment will be broad enough to allow you to explore your specific ideas and interests, but will demand close analysis of short passages from the [readings]({{< baseurl >}}/pages/readings).
+Please see {{< resource_link 536502f8-290e-74f6-250c-5fe860acad58 "assignments" >}} for criteria and guidelines for your papers. The assignment will be broad enough to allow you to explore your specific ideas and interests, but will demand close analysis of short passages from the {{< resource_link 1243cb6c-78b7-1669-ae77-8c0402cc0a9f "readings" >}}.
 
 On the assigned due date bring one paper copy to class or to my mailbox by 5pm. I can only provide extensive commentary on your writing and argument - and **I will** - if I receive your materials on time. Late papers will also lose 1% (of the course total 100%) each working day; they should be brought to the main Literature office, during working hours, and dated by the administrative assistant.
 
@@ -92,7 +93,7 @@ Please read and understand the following policy statement: "Plagiarism - use of 
 
 ### Two Presentations
 
-*   One on a critical reading (see [readings]({{< baseurl >}}/pages/readings))
+*   One on a critical reading (see {{< resource_link 1243cb6c-78b7-1669-ae77-8c0402cc0a9f "readings" >}})
 *   One leading our discussion of a novel
 
 ### Mini-Conference Paper

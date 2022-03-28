@@ -3,11 +3,12 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 1243cb6c-78b7-1669-ae77-8c0402cc0a9f
 ---
 
-This section contains a list of the texts read in this class. For a more detailed breakdown of which texts are read for which sessions, please consult the [calendar]({{< baseurl >}}/pages/calendar).
+This section contains a list of the texts read in this class. For a more detailed breakdown of which texts are read for which sessions, please consult the {{< resource_link 02d8fea0-753e-e224-afbb-7f7e4ded1e81 "calendar" >}}.
 
 Required Texts
 --------------
