@@ -5,6 +5,7 @@ file: /courses/21l-488-contemporary-literature-british-novels-now-spring-2007/da
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Characteristics of Contemporary Literature
 uid: da92a128-6f31-e5d3-01d3-e796acc8eb25
 ---
 Lecture outline on characteristics of contemporary literature.
-

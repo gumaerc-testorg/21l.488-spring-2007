@@ -6,6 +6,7 @@ file: /courses/21l-488-contemporary-literature-british-novels-now-spring-2007/dd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: postmodernism.pdf
 uid: dd592c77-975c-8e88-9407-6564795c4333
 ---
 This resource contain lecture notes on modernism, Postmodernism, and the difference between them.
-
