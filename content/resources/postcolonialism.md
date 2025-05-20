@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of a lecture on postcolonialism.
-file: /ol-ocw-studio-app/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/bcbd57aebe9bb2879ac8641e27bd402f_postcolonialism.pdf
+file: /courses/21l-488-contemporary-literature-british-novels-now-spring-2007/bcbd57aebe9bb2879ac8641e27bd402f_postcolonialism.pdf
 file_size: 35973
 file_type: application/pdf
 learning_resource_types:
