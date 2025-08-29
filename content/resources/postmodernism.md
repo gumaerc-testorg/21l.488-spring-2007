@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contain lecture notes on modernism, Postmodernism, and
   the difference between them.
-file: /courses/21l-488-contemporary-literature-british-novels-now-spring-2007/dd592c77975c8e8894076564795c4333_postmodernism.pdf
+file: /ol-ocw-studio-app/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/dd592c77975c8e8894076564795c4333_postmodernism.pdf
 file_size: 36446
 file_type: application/pdf
 learning_resource_types:
