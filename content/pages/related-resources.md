@@ -12,48 +12,48 @@ uid: ee0fe02a-2f99-adf5-38e4-ad5b313af64b
 ---
 ## Guidelines / Resources for Papers
 
-[MLA Style: Everything You Need to Know](http://owl.english.purdue.edu/owl/resource/557/01/)
+{{% resource_link "f23d3f0c-483b-4c59-b5fd-2010900ff03f" "MLA Style: Everything You Need to Know" %}}
 
 ## Research Resources
 
-[Database of Contemporary UK Writers](http://www.contemporarywriters.com/)
+{{% resource_link "b148cac4-9f68-4a0b-9994-46dae42c2616" "Database of Contemporary UK Writers" %}}
 
-[Margaret Thatcher talking about sinking an Argentinian ship during the Falklands War](http://www.youtube.com/watch?v=1aZdAyHVjzQ)   
+{{% resource_link "998eaa0f-8fa8-462c-82f7-eb5ded3680a7" "Margaret Thatcher talking about sinking an Argentinian ship during the Falklands War" %}}   
 This will give you a good sense of her personality.
 
 ## Margaret Atwood Resources
 
-[Margaret Atwood's Official Site](http://www.owtoad.com/)   
+{{% resource_link "1d8d12dd-97cf-4ede-9509-7b712a76972a" "Margaret Atwood's Official Site" %}}   
 It is quite nice.
 
-[The Film Version](http://www.imdb.com/title/tt0099731/)   
+{{% resource_link "2295cfdd-0895-4725-8668-d6f381e5c2a1" "The Film Version" %}}   
 I love the VHS cover of the film version of Atwood's novel.
 
-[The Opera Version](http://books.guardian.co.uk/review/story/0,12084,918465,00.html)   
+{{% resource_link "71d1b751-cf75-46d6-8ad1-c5d2c79123c9" "The Opera Version" %}}   
 Oh yes. What's next? The Handmaid's Tale Video Game?
 
 ## Roddy Doyle Resources
 
-[Roddy Doyle Profile](http://books.guardian.co.uk/authors/author/0,,-60,00.html)
+{{% resource_link "5dc3d020-d424-4631-a8bc-8e4199828446" "Roddy Doyle Profile" %}}
 
-[Online List of "Everyday English" and Slang common in Ireland](http://www.irishslang.co.za/)
+{{% resource_link "6d158029-18a7-4124-b5f7-b3d61ac52b44" "Online List of \"Everyday English\" and Slang common in Ireland" %}}
 
 ## Yann Martel Resources
 
-[Interview with Yann Martel](http://www.youtube.com/watch?v=aJYS9SQn1LA)   
+{{% resource_link "b4bba727-56ef-4d34-b7fd-c53e5139f452" "Interview with Yann Martel" %}}   
 This is an audio interview to which someone has added some sad little graphics. But the interview is interesting.
 
-[Yann Martel's page on the Contemporary Writers Web site](http://www.contemporarywriters.com/authors/?p=auth03A14L010512634824)
+{{% resource_link "95faa602-c429-4603-887b-e17d4b646180" "Yann Martel's page on the Contemporary Writers Web site" %}}
 
-[Yann Martel's latest prank](http://www.whatisstephenharperreading.ca/)   
+{{% resource_link "c5b8b33a-7453-4b3f-8d1e-c36f08944d99" "Yann Martel's latest prank" %}}   
 He does love mischief.
 
 ## McEwan Resources
 
-[Ian McEwan's Homepage](http://www.ianmcewan.com/)   
+{{% resource_link "6dd0add0-f50c-4e6a-82d2-b66db0a4e82c" "Ian McEwan's Homepage" %}}   
 McEwan was one of the first UK writers to register his own name as an internet domain. What is the McEwan 'brand'?
 
-[The film version of The Comfort of Strangers](http://imdb.com/title/tt0099292/)
+{{% resource_link "cba9345d-5ba3-47bc-81f2-e021f8081fb6" "The film version of The Comfort of Strangers" %}}
 
 ## Martin Amis Resources
 
@@ -62,19 +62,19 @@ The Martin Amis Web was created in 1995 by James Diedrick, author of Understandi
 
 ## Ishiguro Resources
 
-[Kazuo Ishiguro Profile, #1](http://books.guardian.co.uk/authors/author/0,5917,-217,00.html)   
+{{% resource_link "291ba520-02f0-4196-90a9-4e0868c1e065" "Kazuo Ishiguro Profile, #1" %}}   
 This page is maintained by the *Guardian*, an excellent London-based newspaper with superior sections on literature and the arts.
 
-[Kazuo Ishiguro Profile, #2](http://www.contemporarywriters.com/authors/?p=auth52)   
+{{% resource_link "9a1734e8-e999-461f-a450-aa271f2fdb00" "Kazuo Ishiguro Profile, #2" %}}   
 This page is c/o the British Council, which maintains an extensive Web site devoted to the UK's contemporary writers.
 
 ## Coetzee Resources
 
-[Coetzee's Nobel Speech, 2003](http://nobelprize.org/nobel_prizes/literature/laureates/2003/coetzee-lecture-e.html)
+{{% resource_link "e57ea82f-246c-427b-abdc-bf7ca0f272ed" "Coetzee's Nobel Speech, 2003" %}}
 
-[Video of Coetzee's Nobel Speech, 2003](http://nobelprize.org/nobel_prizes/literature/laureates/2003/coetzee-lecture.html)
+{{% resource_link "9fcea389-ae03-443e-bb04-0adf7c2c81a9" "Video of Coetzee's Nobel Speech, 2003" %}}
 
-[Salon.com's Review of Disgrace](https://www.salon.com/1999/11/05/coetzee/)
+{{% resource_link "975bbe51-38d4-4c6c-a42c-860c74457db8" "Salon.com's Review of Disgrace" %}}
 
 ## Recommended Songs
 
